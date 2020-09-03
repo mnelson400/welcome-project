@@ -14,12 +14,12 @@ function Navigation(props) {
         <li>
           <Link to="/contact">Contact</Link>{" "}
         </li>
-        <li>
+        {/* <li>
           <Link to="/stopwatch">Timer</Link>{" "}
         </li>
         <li>
           <Link to="/meme">Meme Generator</Link>{" "}
-        </li>
+        </li> */}
       </ul>
     </div>
   );
